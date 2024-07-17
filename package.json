@@ -1,0 +1,14 @@
+{
+  "name": "prog6",
+  "version": "1.0.0",
+  "description": "A single page application to run crazy words",
+  "main": "app.js",
+  "scripts": {
+    "test": "testthis"
+  },
+  "author": "John Abbeo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
